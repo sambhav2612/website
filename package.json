@@ -4,7 +4,7 @@
   "homepage": "https://sambhav2612.netlfiy.app",
   "dependencies": {
     "anix": "^0.3.3",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.1",
     "particles-bg": "^2.3.12",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
