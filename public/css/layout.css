@@ -427,6 +427,9 @@ ul#nav li.current a { color: #fe6928; }
 
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
+.portfolio-item {
+    max-height: 470px;
+}
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
@@ -640,7 +643,6 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
