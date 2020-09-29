@@ -17,7 +17,7 @@ class App extends Component {
     };
 
     ReactGA.initialize('UA-107733371-5');
-    ReactGA.pageview(window.location.pathname);
+    ReactGA.pageview(window.location.pathname + window.location.search);
   }
 
   getResumeData() {

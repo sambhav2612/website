@@ -1,7 +1,11 @@
 {
   "name": "sambhav2612-resume",
   "version": "0.0.1",
-  "homepage": "https://sambhav2612.netlfiy.app",
+  "homepage": "https://sambhav2612.vercel.app",
+  "repository": {
+    "url": "https://github.com/sambhav2612/website",
+  },
+  "license": "MIT License",
   "dependencies": {
     "anix": "^0.3.3",
     "jquery": "^3.5.1",
