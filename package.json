@@ -1,7 +1,7 @@
 {
   "name": "sambhav2612-resume",
   "version": "0.0.1",
-  "homepage": "https://sambhav2612.github.io/resume",
+  "homepage": "https://sambhav2612.github.io/",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
