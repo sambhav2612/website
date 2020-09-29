@@ -1,8 +1,7 @@
 {
   "name": "sambhav2612-resume",
   "version": "0.0.1",
-  "homepage": "https://sambhav2612.github.io/website",
-  "private": true,
+  "homepage": "https://sambhav2612.netlfiy.app",
   "dependencies": {
     "anix": "^0.3.3",
     "jquery": "^3.2.1",
@@ -16,11 +15,6 @@
     "start": "react-scripts start",
     "build": "NODE_ENV=production GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -n --remote=upstream -d build"
-  },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "eject": "react-scripts eject"
   }
 }
