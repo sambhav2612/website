@@ -20,7 +20,7 @@ class Header extends Component {
               <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
               <li><a className="smoothscroll" href="#about">About</a></li>
               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-              <li><a className="smoothscroll" href="#contact">Reach Out</a></li>
+              <li><a className="smoothscroll" href="#contact">Contact</a></li>
               <li><a href="mailto:sambhavjain2612@gmail.com?subject=Hi, Sambhav [via netlify app]">Mail</a>
               </li>
             </ul>

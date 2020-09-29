@@ -26,14 +26,16 @@ function Contact(props) {
           <div className="eight columns">
 
           </div>
+        </div>
 
-          <aside className="four columns footer-widgets">
-            <div className="widget widget_contact">
+        <div className="row" style={{textAlign: 'center'}}>
+          <aside className="four columns" style={{width: '100%'}}>
+            <div className="widget widget_contact" style={{margin: '0 auto'}}>
               <h4>Address and Phone</h4>
               <p className="address">
                 {name}<br/>
                 {street} <br/>
-                {city}, {state} {zip}<br/>
+                {city} {state} {zip}<br/>
                 <span>{phone}</span>
               </p>
             </div>
