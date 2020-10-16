@@ -1,4 +1,5 @@
 import React from 'react';
+import SubscribeCard from "react-subscribe-card";
 
 function Contact(props) {
   if (props.data) {
@@ -40,6 +41,10 @@ function Contact(props) {
               </p>
             </div>
           </aside>
+        </div>
+
+        <div className="row">
+          <SubscribeCard tinyletterUsername="sambhav2612"/>
         </div>
       </section>
   );
